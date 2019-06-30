@@ -1,2 +1,2 @@
 # hello-world
-Tutorial for myself.
+This is a changed copy of master.md.
